@@ -1,4 +1,4 @@
-![banner](https://iamovi.github.io/koi/assets/main/main.gif)
+![banner](https://cdn.jsdelivr.net/gh/iamovi/koi/assets/main/main.gif)
 
 The bangla legendary meme now in website.
 
