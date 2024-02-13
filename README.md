@@ -3,8 +3,6 @@ Check out the [কই? Website](https://iamovi.github.io/koi/)
 
 ![banner](https://cdn.jsdelivr.net/gh/iamovi/koi/assets/main/main.gif)
 
-The bangla meme now in website.
-
 
 ---
 
